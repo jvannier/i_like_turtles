@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Authors
+Joshua Mandella - A trained biologist who is looking to change careers to a software developer. I love puzzles and look forward to push my learning ever forward in technology. For this product I'm excited to try and bring some fun stats in population ecology and find some fun implimentations for the turtles. So excited to get into the meat of this technology and apply as much of my knowladge as I can!
